@@ -1,4 +1,4 @@
-# Gerenciador de Setup para Java & Ferramentas de Build
+# Java Setup Env Manager FOR WINDOWS
 
 Este script foi desenvolvido para facilitar a configuração das variáveis de ambiente `JAVA_HOME`, `PATH:mavenbin` e `PATH:gradlebin` no Windows. Com ele, você pode configurar rapidamente diferentes versões do JDK, Maven e Gradle para diferentes ambientes.
 
