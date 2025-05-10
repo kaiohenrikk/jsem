@@ -1,0 +1,18 @@
+{
+    "mvn": {
+        "anbima": {
+            "jdkPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\jdks\\jdk-11.0.24_windows-x64_bin\\jdk-11.0.24",
+            "mavenBinPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\config\\apache-maven-3.6.3\\bin"
+        },
+        "b3_depositaria": {
+            "jdkPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\jdks\\amazon-corretto-21.0.7.6.1-windows-x64-jdk\\jdk21.0.7_6",
+            "mavenBinPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\config\\apache-maven-3.9.9\\bin"
+        } 
+    },
+    "gradle": {
+        "test_project": {
+            "jdkPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\jdks\\amazon-corretto-21.0.7.6.1-windows-x64-jdk\\jdk21.0.7_6",
+            "gradleBinPath": "C:\\Users\\KaioHenrikdePaulaMel\\Documents\\config\\gradle-8.14\\bin"
+        }
+    }
+}
